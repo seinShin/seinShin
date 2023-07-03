@@ -1,4 +1,5 @@
 <a href="https://github.com/seinShin"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seinShin%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+<div align="center">
 
 ## CONTACT ME :blush:
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://bboddorong.tistory.com/)
@@ -7,11 +8,12 @@
 
 ## STATS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdls80)](https://solved.ac/tpdls80/)
-<img src="http://mazandi.herokuapp.com/api?handle=tpdls80&theme=warm"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight)
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=tpdls80&theme=warm"/> -->
 
-## SKILLS
-<div float="left">
-  <div align=center> 
+
+## SKILLS 
+<div align="center"> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -28,14 +30,9 @@
     <br>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-  </div>
-
-  <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seinShin&layout=compact&show_icons=true&theme=tokyonight">
-  </div>
 </div>
 
-
+</div>
 
 <!--
 **seinShin/seinShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
