@@ -1,5 +1,5 @@
 <a href="https://github.com/seinShin"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seinShin%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-<div align="center">](https://github.com/seinShin/seinShin/blob/main/README.md)
+<div align="center">
 
 ## CONTACT ME :blush:
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://bboddorong.tistory.com/)
