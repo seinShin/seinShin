@@ -8,7 +8,7 @@
 
 ## STATS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdls80)](https://solved.ac/tpdls80/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seinShin&layout=compact&show_icons=true&theme=tokyonight)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=tpdls80&theme=warm"/> -->
 
 
