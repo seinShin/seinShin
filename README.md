@@ -6,8 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlstpdls13@gmail.com)](mailto:tlstpdls13@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tpdls80@naver.com)](mailto:tpdls80@naver.com)
 
-## STATS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdls80)](https://solved.ac/tpdls80/)
+<!-- ## STATS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdls80)](https://solved.ac/tpdls80/) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seinShin&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=tpdls80&theme=warm"/> -->
 
