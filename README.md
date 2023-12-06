@@ -19,27 +19,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=24&pause=1000&color=EAB6F7&height=50&repeat=false&random=false&width=435&lines=Stacks" alt="Typing SVG" /></a>
 -----------------------------
 
-<img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=20&pause=1000&color=ffeaed&height=50&repeat=false&random=false&width=435&lines=Framework" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=20&pause=1000&color=ffeaed&height=50&repeat=false&random=false&width=435&lines=Framework and Languages" alt="Typing SVG" />
 
 <div aling=left>
          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white" height="25px"> 
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springSecurity&logoColor=white" height="25px"> 
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" height="25px">
-</div>
-
-<br>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=20&pause=1000&color=ffeaed&height=45&repeat=false&random=false&width=435&lines=Languages" alt="Typing SVG" />
-
-<div aling=left>
+         <br>
          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25px"> 
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25px">
 </div>
 
-  
 <br>
 <br>  
 
@@ -58,23 +51,18 @@
 
 <br>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=20&pause=1000&color=ffeaed&height=50&repeat=false&random=false&width=435&lines=Communications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=20&pause=1000&color=ffeaed&height=50&repeat=false&random=false&width=435&lines=Communications and Tools" alt="Typing SVG" />
 <div align=left>
          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px">
-</div>
-
 <br>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Beginner&weight=500&size=20&pause=1000&color=ffeaed&height=50&repeat=false&random=false&width=435&lines=Tools" alt="Typing SVG" />
-<div align=left>
          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" height="25px">
          <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/WebsocketDevTools-FF6347?style=for-the-badge&logo=websocketDevTools&logoColor=white" height="25px">
-
 </div>
+
 
 
 
